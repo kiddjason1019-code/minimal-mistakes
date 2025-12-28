@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-TW"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "小孩傑森的實務筆記"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "小孩傑森"
+description              : "我是小孩傑森，專注把複雜問題拆解成能真正落地的決策與流程。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "小孩傑森"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "小孩傑森，橫跨產品管理與客戶服務的實務型專業者，長期深耕商用車用照明產業，參與產品開發、品質管理與跨國協作。我的思考風格偏向結構化與系統性，習慣先釐清問題邊界與關鍵假設，再透過數據、實務經驗與反覆驗證形成判斷，並對看似「理所當然」的結論保持健康的懷疑。比起華麗的策略敘述，我更在意流程是否可執行、決策是否經得起時間與現場考驗。持續學習、整理與輸出，是我面對複雜世界的方法，也是不斷優化工作的起點。"
+  location         : "台灣"
   email            :
   links:
     - label: "Email"
